@@ -1,2 +1,2 @@
-# PythonTesting
-Test Python code
+# ArmTesting
+Test Azure ARM Templates
